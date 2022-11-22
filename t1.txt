@@ -1,1 +1,120 @@
-ravi
+echo $HOME ----home dericotery
+echo $PWD
+type pwd
+RAVI=ravikant
+echo $RAVI
+
+ls -l --directory
+ls -a
+
+cate .bash_profile
+
+ls -la
+.bashrc
+
+download and install
+Linode - Akamai Cloud Computing Logo
+
+step1-:sudo apt-get install openjdk-11-jdk
+step2-:java -version-"11.0.17" 2022-10-18
+step3-:Reload the ~/.bashrc file:
+source ~/.bashrc
+step4-:Verify that the JAVA_HOME and PATH variables were set correctly:
+echo $JAVA_HOME
+echo $PATH
+step5-:
+
+
+step1-:sudo apt update
+step2-:sudo apt install vim apt-transport-https curl wget software-properties-common
+step3-:sudo add-apt-repository ppa:mmk2410/intellij-idea -y
+step4-:sudo apt install intellij-idea-community -y
+step5-:(2022.2.3-1)
+
+aws
+
+                                 21/11/2022
+                                 
+Please complete this 1 hr brief introduction to GIT 
+
+https://www.udemy.com/course/git-started-with-github/learn/lecture/2965885?start=81#overview
+
+cd Desktop
+mkdir projects
+cd projects
+pwd
+git version
+git config --global user.name "abe Lincoln"
+git config --globle user.email "mrabe@git.training"
+git config --globle --list
+
+A simple demo repository to show the basic Git workflow
+               file uplode process
+
+ cd Desktop ke andar--:git clone
+   https://github.com/Officialravi888/github.demo.git
+   
+   ls
+   cd project
+   ls --:ravikant-learning
+   cd ravikant-learning
+   ls
+   git status
+   echo "Test Git Quick Start demo" >> start.txt
+   ls --jo uplode honi h file name aayga
+   cat start.txt
+   git status
+   git add start.txt
+   git status --new file banegi
+   git commit -m "Adding start text file"
+   git status
+   
+   
+   22/11/2022                       file send git hub   rsa or ed25519
+   
+   mkdir Test
+   cd Test/
+   cd ~/.s
+   cd ~/.ssh/
+   cd -
+   cd -
+   ls
+   ssh-key
+   ssh-keygen -t ed25519
+   ls
+   cat id_ed25519.pub
+   gedit id_ed25519.pub
+   cd -
+   git clone git@github.----------echo "----
+   ls
+   cd github.demo/
+   cd ..
+   ls
+   ls -la
+   cd github.demo/
+   ls
+   ls -la
+   git status  -------on branch main
+   git remote -v
+   echo "ravi" > t1.txt
+   git status
+   git add t1.txt
+   git status
+   git commit -m 'adding new file'
+   git push
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+
+
+
