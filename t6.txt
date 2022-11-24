@@ -1,0 +1,30 @@
+Java -: java is a high level class based object orented programming language.
+
+Identifiers -:any value to identifier 
+
+Keyword -:there are tpype of 52 key word-if,nume,else,char,float,
+
+Literals -:literals is called of value after then use program.
+String,char,numerical,bluene
+
+Separators -:it is use of the program one code to second code defferent-defferent is called.
+(),{},[],.
+
+Comment -:therse are type of comment-Single line //, Multiple line /*----*
+
+Operator -:Arithmetic operator,unary,Assignment,Relational,logical,ternary,Bitwisw,Shift
+
+Variable -:variavle is the container it is use of the program and data store
+Local,Global,Finan
+
+Data type -:these are type of variabe store-Integer,float,double,char,Boolean
+
+Java or JavaScript -:java is a class based obj orented programming language
+javaScript is a client side scripting language
+
+Instance Variable and Local Variable,instance variable those are variable we are use to class to under any method to acces method inside class to under
+
+local variable block of the function and constructor 
+
+Jdk,Jre,Jvm -:
+
